@@ -38,7 +38,7 @@ The plotter also records the received data within a file \[Output/[5.1 Logfile](
 
 This screenshot might help to get an overall overview of the plotter.
 
-![Screenshot](https://niob.werk5.dyndns.org/git/werk5/iiwa/raw/json-logger/wiki_images/UPD+JSON+Plotter/upd_json_plotter.png)
+![Screenshot](../media/upd_json_plotter.png?raw=true)
 
 # 2. Dependencies
 - python 3.6
